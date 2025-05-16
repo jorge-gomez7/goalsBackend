@@ -18,6 +18,6 @@ Aplicación backend desarrollada con **Node.js** y **Express** que permite gesti
 
 ```bash
 git clone https://github.com/jorge-gomez7/goalsBackend.git
-cd goalsBackend
+cd goalsBackend```
 
 2. Instalar dependencias:
